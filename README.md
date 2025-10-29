@@ -206,4 +206,3 @@ python suicide_classification_skllm.py
 ## Contact
 
 - 이지선: jisunclaralee@kookmin.ac.kr
-- 윤수연: 1104py@kookmin.ac.kr
